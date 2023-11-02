@@ -1,0 +1,35 @@
+body {
+	font-family: Agbalumo, sans-serif;
+	  background: url(thisone.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	padding-top: 4rem;
+	font-size: 50px;
+	color: floralwhite;
+}
+
+.buffer{
+	padding: 13rem;
+}
+
+
+
+.btn{
+	border-radius: 300px;
+	border-color: cyan;
+	background-color: darkcyan;
+}
+
+.btn:hover{
+	background-color: cyan;
+
+}
+
+.btn-xl{
+	padding: 1rem;
+}

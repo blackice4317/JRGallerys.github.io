@@ -1,0 +1,27 @@
+img  {
+	width: 117px;
+	height: 260px;
+	margin: 1px;
+	align-content: center;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+h1{
+	text-align: center;
+	border-bottom: 2px solid darkcyan;
+	padding-bottom: 1rem;
+	padding-top: 2rem;
+	font-family: Agbalumo;
+	color: darkcyan;
+}
+
+.buffer{
+	padding: 5rem;
+}
+
+.container{
+	padding-left: 0rem;
+	align-content: center;
+}
